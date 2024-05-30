@@ -5,5 +5,4 @@
 </head>
 
 <body>
-    <h1 style="font-size:100px">&#128376;</h1>
-    <h1>Welcome Foolish Mortals&#128376;</h1>
+    <h1>&#128376;Welcome Foolish Mortals&#128376;</h1>
